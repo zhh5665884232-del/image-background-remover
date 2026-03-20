@@ -1,0 +1,7 @@
+name = "image-background-remover"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+# 在 Cloudflare 控制台设置 API_KEY
+# REMOVE_BG_API_KEY = "你的API密钥"
